@@ -4,11 +4,6 @@
 </p>
 <hr/>
 <h4 align="center"></h4>
-<br>
-
-<p align="right"> <h3>Profile Views</h3> <img src="https://komarev.com/ghpvc/?username=matteosz&label=Profile%20views&color=0e75b6&style=flat"
-    alt="matteosz" /> 
-</p>
 
 <p><img align="right" src="https://github.com/matteosz/matteosz/blob/Tank/src/coding_animation.gif" alt="matteosz" /></p>
 
@@ -52,10 +47,14 @@
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=matteosz&show_icons=true&locale=en&layout=compact"
     alt="Matteo's stats" /></p>
-<br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matteosz&show_icons=true&locale=en"
     alt="matteosz" /></p>
-<br>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matteosz&" alt="matteosz" /></p>
+<br>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=matteosz&label=Profile%20views&color=0e75b6&style=flat"
+    alt="matteosz" /> 
+</p>
