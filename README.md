@@ -4,7 +4,7 @@
 </p>
 <hr/>
 <h4 align="center"></h4>
-
+<br>
 <p><img align="right" src="https://github.com/matteosz/matteosz/blob/Tank/src/coding_animation.gif" alt="matteosz" /></p>
 
 - 👨🏽‍💻 Bachelor Student at Politecnico di Torino
@@ -46,7 +46,7 @@
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=matteosz&show_icons=true&locale=en&layout=compact"
     alt="Matteo's stats" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matteosz&show_icons=true&locale=en"
     alt="matteosz" /></p>
 <br>
