@@ -6,6 +6,7 @@
 <h4 align="center"></h4>
 <br>
 <p><img align="right" src="https://github.com/matteosz/matteosz/blob/Tank/src/coding_animation.gif" alt="matteosz" /></p>
+<br>
 
 - 👨🏽‍💻 Bachelor Student at Politecnico di Torino
 - 🌱 Currently doing research on Federated Learning
