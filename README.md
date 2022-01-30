@@ -43,16 +43,13 @@
       alt="javascript" width="40" height="40" /> </a> </p>
 <br>
 
-
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=matteosz&show_icons=true&locale=en&layout=compact"
     alt="Matteo's stats" /></p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matteosz&show_icons=true&locale=en"
     alt="matteosz" /></p>
-
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matteosz&" alt="matteosz" /></p>
 <br>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=matteosz&label=Profile%20views&color=0e75b6&style=flat"
