@@ -8,10 +8,10 @@
 <p><img align="right" src="https://github.com/matteosz/matteosz/blob/Tank/src/coding_animation.gif" alt="matteosz" /></p>
 <br>
 
-- 👨🏽‍💻 Studying Computer Science at EPFL with a specialization in Software Systems
-- 🌱 Facing everyday new challenges
+- 👨🏽‍💻 MSc in Computer Science at EPFL
+- 🌱 Passionate about Software Engineering, Machine Learning and Distributed Systems
 - 💬 Ask me about anything, I love to answer!
-- 📫 How to reach me **mattsuez01@gmail.com**
+- 📫 You can find a contact form on my <a href="https://www.matteosuez.com">personal website</a>
 <a href="https://www.linkedin.com/in/matteo-suez/">
   <img align="left" alt="Matteo's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
@@ -49,10 +49,6 @@
   </p>
 <br>
 
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=matteosz&show_icons=true&locale=en&layout=compact"
-    alt="Matteo's stats" /></p>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matteosz&show_icons=true&locale=en"
     alt="matteosz" /></p>
 <br>
