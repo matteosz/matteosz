@@ -66,12 +66,12 @@
 </div>
 <div align="center">
   <div align="center">
-  <img src="https://github.com/matteosz/matteosz/blob/Tank/src/coding_animation.gif" alt="matteosz" width="400" height="400"/>
+  <img src="https://github.com/matteosz/matteosz/blob/Tank/src/coding_animation.gif" alt="matteosz" width="300" height="300"/>
 </div>
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matteosz&show_icons=true&locale=en"
-    alt="matteosz" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matteosz&" alt="matteosz" />
+    alt="matteosz"  width="300" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matteosz&" alt="matteosz"  width="300" height="200"/>
 </div>
 </div>
 <br>
