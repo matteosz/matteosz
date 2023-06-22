@@ -1,59 +1,79 @@
-<h1 align="center">Hi, I'm Matteo Suez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">! I'm Matteo Suez</h1>
+<hr/>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Software+Engineering%20|%20Machine+Learning;Always%20mastering%20new%20skills&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Master+student+at+EPFL+in+Computer+Science;SDE+Intern+at+AWS&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center"></h4>
-<br>
-<p><img align="right" src="https://github.com/matteosz/matteosz/blob/Tank/src/coding_animation.gif" alt="matteosz" /></p>
 <br>
 
-- 👨🏽‍💻 MSc in Computer Science at EPFL
-- 🌱 Passionate about Software Engineering, Machine Learning and Distributed Systems
-- 💬 Ask me about anything, I love to answer!
-- 📫 You can find a contact form on my <a href="https://www.matteosuez.com">personal website</a>
+<div align="center">
+
+|   |   |
+|---|---|
+| 📓 | MSc student in Computer Science @ EPFL, specialization in Software Systems         |
+| 👨🏽‍💻 | Software Development Engineer Intern @ Amazon Web Services                         |
+| 🌱 | Passionate about Software Engineering, Distributed Systems, and Machine Learning   |
+| 📫 | You can find a contact form on my <a href="https://www.matteosuez.com">website</a> |
+|   |   |
+
+    
+ 
+<br>
 <a href="https://www.linkedin.com/in/matteo-suez/">
-  <img align="left" alt="Matteo's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+  <img alt="LinkedIn profile" width="45px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <h3>Languages and Frameworks:</h3><br>
+<p> 
+  <a href="https://www.cprogramming.com/" target="_blank"
+    rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="60" height="60" /> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a>
+      alt="cplusplus" width="60" height="60" /> 
+  </a>  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60" /> 
+  </a>
+  <a href="https://www.android.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="60" height="60" /> 
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala"
+      width="60" height="60" /> </a>
+   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a>
+      width="60" height="60" /> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> 
+      alt="mysql" width="60" height="60" /> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a>
+      alt="html5" width="60" height="60" /> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+      width="60" height="60" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> 
+      alt="javascript" width="60" height="60" /> </a> 
   <a href="https://reactjs.org" target="_blank"
     rel="noreferrer"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
-      alt="react" width="40" height="40" /> </a> 
+      alt="react" width="60" height="60" /> </a> 
   </p>
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matteosz&show_icons=true&locale=en"
-    alt="matteosz" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matteosz&" alt="matteosz" /></p>
+</div>
+<div align="center">
+  <div align="center">
+  <img src="https://github.com/matteosz/matteosz/blob/Tank/src/coding_animation.gif" alt="matteosz" width="400" height="400"/>
+</div>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matteosz&show_icons=true&locale=en"
+    alt="matteosz" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matteosz&" alt="matteosz" />
+</div>
+</div>
 <br>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=matteosz&label=Profile%20views&color=0e75b6&style=flat"
-    alt="matteosz" /> 
-</p>
+    alt="matteosz" /> </p>
