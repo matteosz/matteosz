@@ -1,4 +1,4 @@
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">! I'm Matteo Suez</h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">!<br> I'm Matteo Suez</h1>
 <hr/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Master+student+at+EPFL+in+Computer+Science;SDE+Intern+at+AWS&center=true&width=500&height=50"></a>
@@ -66,12 +66,12 @@
 </div>
 <div align="center">
   <div align="center">
-  <img src="https://github.com/matteosz/matteosz/blob/Tank/src/coding_animation.gif" alt="matteosz" width="300" height="300"/>
+  <img src="https://github.com/matteosz/matteosz/blob/Tank/src/coding_animation.gif" alt="matteosz" width="250" height="250"/>
 </div>
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matteosz&show_icons=true&locale=en"
-    alt="matteosz"  width="300" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matteosz&" alt="matteosz"  width="300" height="200"/>
+    alt="matteosz"  width="400" height="350"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matteosz&" alt="matteosz"  width="400" height="350"/>
 </div>
 </div>
 <br>
