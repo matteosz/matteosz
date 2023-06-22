@@ -7,18 +7,13 @@
 <br>
 
 <div align="center">
-
-|   |   |
-|---|---|
-| 📓 | MSc student in Computer Science @ EPFL, specialization in Software Systems         |
-| 👨🏽‍💻 | Software Development Engineer Intern @ Amazon Web Services                         |
-| 🌱 | Passionate about Software Engineering, Distributed Systems, and Machine Learning   |
-| 📫 | You can find a contact form on my <a href="https://www.matteosuez.com">website</a> |
-|   |   |
-
-    
- 
+  
+- 👨🏽‍💻 Software Development Engineer Intern @ Amazon Web Services
+-  📓 MSc student in Computer Science @ EPFL, specialization in Software Systems
+- 🌱 Passionate about Software Engineering, Distributed Systems, and Machine Learning
+- 📫 You can find a contact form on my <a href="https://www.matteosuez.com">website</a>
 <br>
+
 <a href="https://www.linkedin.com/in/matteo-suez/">
   <img alt="LinkedIn profile" width="45px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
@@ -65,15 +60,12 @@
   </p>
 </div>
 <div align="center">
-  <div align="center">
   <img src="https://github.com/matteosz/matteosz/blob/Tank/src/coding_animation.gif" alt="matteosz" width="250" height="250"/>
-</div>
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matteosz&show_icons=true&locale=en"
-    alt="matteosz"  width="400" height="350"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matteosz&" alt="matteosz"  width="400" height="350"/>
+    alt="matteosz"  width="450" height="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matteosz&" alt="matteosz"  width="450" height="400"/>
 </div>
 </div>
-<br>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=matteosz&label=Profile%20views&color=0e75b6&style=flat"
     alt="matteosz" /> </p>
