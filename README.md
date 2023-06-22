@@ -61,11 +61,9 @@
 </div>
 <div align="center">
   <img src="https://github.com/matteosz/matteosz/blob/Tank/src/coding_animation.gif" alt="matteosz" width="250" height="250"/>
-  <div align="center">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=matteosz&show_icons=true&locale=en"
-    alt="matteosz"  width="400" height="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matteosz&" alt="matteosz"  width="400" height="400"/>
-</div>
+    alt="matteosz"/>
 </div>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=matteosz&label=Profile%20views&color=0e75b6&style=flat"
     alt="matteosz" /> </p>
