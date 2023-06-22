@@ -6,14 +6,13 @@
 <hr/>
 <br>
 
-<div align="center">
-  
 - 👨🏽‍💻 Software Development Engineer Intern @ Amazon Web Services
 -  📓 MSc student in Computer Science @ EPFL, specialization in Software Systems
 - 🌱 Passionate about Software Engineering, Distributed Systems, and Machine Learning
 - 📫 You can find a contact form on my <a href="https://www.matteosuez.com">website</a>
 <br>
 
+<div align="center">
 <a href="https://www.linkedin.com/in/matteo-suez/">
   <img alt="LinkedIn profile" width="45px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
