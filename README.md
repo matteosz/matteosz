@@ -6,10 +6,10 @@
 <hr/>
 <br>
 
-- 👨🏽‍💻 Currently Site Reliability Engineer Intern @ Adobe
-- 👨🏽‍💻 Previously Software Development Engineer Intern @ Amazon Web Services
+- 👨🏽‍💻 Currently Machine Learning Researcher @ Oracle Labs, doing my Master's Thesis
+- 👨🏽‍💻 Previously Machine Learning Engineer Inter @ Adobe & Software Development Engineer Intern @ Amazon Web Services
 - 📓 MSc student in Computer Science @ EPFL, specialization in Data Analytics
-- 🌱 Passionate about Software Engineering, Distributed Systems, and Machine Learning
+- 🌱 Passionate about Machine Learning, Software Engineering and Distributed Systems.
 - 📫 You can find a contact form on my <a href="https://www.matteosuez.com">website</a>
 <br>
 
