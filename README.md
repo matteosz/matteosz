@@ -6,11 +6,10 @@
 <hr/>
 <br>
 
-- 👨🏽‍💻 Currently Machine Learning Researcher @ Oracle Labs, doing my Master's Thesis
-- 👨🏽‍💻 Previously Machine Learning Engineer Inter @ Adobe & Software Development Engineer Intern @ Amazon Web Services
+- 👨🏽‍💻 Currently Machine Learning Engineer @ Adobe
+- 👨🏽‍💻 Previously Machine Learning Researcher @ Oracle Labs & Software Development Engineer Intern @ Amazon Web Services
 - 📓 MSc student in Computer Science @ EPFL, specialization in Data Analytics
 - 🌱 Passionate about Machine Learning, Software Engineering and Distributed Systems.
-- 📫 You can find a contact form on my <a href="https://www.matteosuez.com">website</a>
 <br>
 
 <div align="center">
