@@ -1,7 +1,7 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">!<br> I'm Matteo Suez</h1>
 <hr/>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=MSc+in+CS+@+EPFL;SRE+Intern+@+Adobe&center=true&width=550&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=MSc+in+CS+@+EPFL;MLE+@+Adobe&center=true&width=550&height=50"></a>
 </p>
 <hr/>
 <br>
